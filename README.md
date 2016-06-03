@@ -24,6 +24,7 @@ follow the subjects they want to.
 - [David Walsh](https://twitter.com/davidwalshblog) - Mozilla, MooTools
 - [Eric Elliot](https://twitter.com/_ericelliott) - Prototypal Inheritance, Programming Javascript Applications, Tape
 - [Elijah Manor](https://twitter.com/elijahmanor) - React for the future
+- [Henrik Joreteg](https://twitter.com/HenrikJoreteg) - HumanJS, &amp
 - [Jafar Husain](https://twitter.com/jhusain) - Netflix, FalcorJS, Async Javascript
 - [Jan Lehnardt](https://twitter.com/janl) - CouchDB, HoodieHQ, JSConfEU
 - [John Lindquist](https://twitter.com/johnlindquist) - EggHead.io
