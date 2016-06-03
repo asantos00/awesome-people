@@ -17,6 +17,8 @@ follow the subjects they want to.
 ## Javascript 
 - [Dan Abramov](https://twitter.com/dan_abramov) - React, creator of Redux and ReduxHotLoader
 - [Eric Elliot](https://twitter.com/_ericelliott) - Prototypal Inheritance, Programming Javascript Applications, Tape
+- [Elijah Manor](https://twitter.com/elijahmanor) - React for the future
+- [Jan Lehnardt](https://twitter.com/janl) - CouchDB, HoodieHQ, JSConfEU
 - [John Lindquist](https://twitter.com/johnlindquist) - EggHead.io
 - [Kyle Simpson](https://twitter.com/getify) - YDKJS, Asynquence
 - [Mattias P Johansson](https://twitter.com/mpjme) - FunFunFunction, Functional Programming in Javascript
