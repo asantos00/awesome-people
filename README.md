@@ -18,7 +18,8 @@ follow the subjects they want to.
 - [Kyle Simpson](https://twitter.com/getify) - YDKJS, Asynquence
 - [Dan Abramov](https://twitter.com/dan_abramov) - React, creator of Redux and ReduxHotLoader
 - [Mattias P Johansson](https://twitter.com/mpjme) - FunFunFunction, Functional Programming in Javascript
+- [Wes Bos](https://twitter.com/wesbos) - Sublime Text Book, LearnRedux.com, React for beginners
 
 ## CSS
 - [Sara Soueidan](https://twitter.com/SaraSoueidan) - SVG, CSS, Performance, Accessibility
-- [Lea Verou](https://twitter.com/LeaVerou) - CSS, CSS Secrets
+- [Lea Verou](https://twitter.com/LeaVerou) - CSS Secrets
