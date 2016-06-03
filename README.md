@@ -18,6 +18,7 @@ follow the subjects they want to.
 
 ## Javascript 
 - [Alex Sexton](https://twitter.com/SlexAxton) - Stripe, Modernizr, jQuery, Dojo
+- [André Staltz](https://twitter.com/andrestaltz) - Reactive Programming, Cycle.js, RxJS
 - [Dan Abramov](https://twitter.com/dan_abramov) - React, creator of Redux and ReduxHotLoader
 - [David Walsh](https://twitter.com/davidwalshblog) - Mozilla, MooTools
 - [Eric Elliot](https://twitter.com/_ericelliott) - Prototypal Inheritance, Programming Javascript Applications, Tape
