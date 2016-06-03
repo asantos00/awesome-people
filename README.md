@@ -3,11 +3,10 @@
 This is a curated list I made from people I follow and I've been learning a lot from. 
 They are recognized by the community for their contributions/talks/projects/books and so on.
 
-
-(Struggling to divide this into categories, alphabetical order)
+(Struggling to divide this into categories, and getting people "small description. Alphabetical order)
 
 **Note**: I'm not trying to say people only know from the category they're in. Just trying to make it easier for people to 
-follow the subjects they want to.
+follow the subjects they want to. Feel free to contribute.
 
 ## Web
 - [Addy Osmani](https://twitter.com/addyosmani) - Tooling, Chrome, Yeoman
@@ -17,6 +16,7 @@ follow the subjects they want to.
 ## Javascript 
 - [Alex Sexton](https://twitter.com/SlexAxton) - Stripe, Modernizr, jQuery, Dojo
 - [Dan Abramov](https://twitter.com/dan_abramov) - React, creator of Redux and ReduxHotLoader
+- [David Walsh](https://twitter.com/davidwalshblog) - Mozilla, MooTools
 - [Eric Elliot](https://twitter.com/_ericelliott) - Prototypal Inheritance, Programming Javascript Applications, Tape
 - [Elijah Manor](https://twitter.com/elijahmanor) - React for the future
 - [Jan Lehnardt](https://twitter.com/janl) - CouchDB, HoodieHQ, JSConfEU
