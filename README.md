@@ -27,6 +27,7 @@ follow the subjects they want to.
 - [Henrik Joreteg](https://twitter.com/HenrikJoreteg) - HumanJS, &amp
 - [Jafar Husain](https://twitter.com/jhusain) - Netflix, FalcorJS, Async Javascript
 - [Jan Lehnardt](https://twitter.com/janl) - CouchDB, HoodieHQ, JSConfEU
+- [Jeremy Ashkenas](https://twitter.com/jashkenas) - BackboneJS, CoffeeScript, Underscore
 - [John Lindquist](https://twitter.com/johnlindquist) - EggHead.io
 - [Kyle Simpson](https://twitter.com/getify) - YDKJS, Asynquence
 - [Mattias P Johansson](https://twitter.com/mpjme) - FunFunFunction, Functional Programming in Javascript
