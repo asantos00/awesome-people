@@ -13,8 +13,8 @@ follow the subjects they want to.
 ## Web
 - [Addy Osmani](https://twitter.com/addyosmani) - Tooling, Chrome, Yeoman
 - [Jake Archibald](https://twitter.com/jaffathecake) - Service Workers, Performance, Offline
+- [Nolan Lawson](https://twitter.com/nolanlawson) - Performance, Offline, Pokedex.org
 - [Paul Irish](https://twitter.com/paul_irish) - Performance, Chrome
-
 
 ## Javascript 
 - [Alex Sexton](https://twitter.com/SlexAxton) - Stripe, Modernizr, jQuery, Dojo
