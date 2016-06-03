@@ -6,12 +6,15 @@ They are recognized by the community for their contributions/talks/projects/book
 (Struggling to divide this into categories, and getting people's "small description". Alphabetical order)
 
 **Note**: I'm not trying to say people only know from the category they're in. Just trying to make it easier for people to 
-follow the subjects they want to. Feel free to contribute.
+follow the subjects they want to. 
+
+**Feel free to contribute, please update and improve people's description!**
 
 ## Web
 - [Addy Osmani](https://twitter.com/addyosmani) - Tooling, Chrome, Yeoman
-- [Jake Archibald](https://twitter.com/jaffathecake) - Service Workers, Performance
+- [Jake Archibald](https://twitter.com/jaffathecake) - Service Workers, Performance, Offline
 - [Paul Irish](https://twitter.com/paul_irish) - Performance, Chrome
+- [Nolan Lawson](https://twitter.com/nolanlawson) - Performance, Offline, Pokedex.org
 
 ## Javascript 
 - [Alex Sexton](https://twitter.com/SlexAxton) - Stripe, Modernizr, jQuery, Dojo
