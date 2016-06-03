@@ -15,6 +15,7 @@ follow the subjects they want to.
 - [Paul Irish](https://twitter.com/paul_irish) - Performance, Chrome
 
 ## Javascript 
+- [Alex Sexton](https://twitter.com/SlexAxton) - Stripe, Modernizr, jQuery, Dojo
 - [Dan Abramov](https://twitter.com/dan_abramov) - React, creator of Redux and ReduxHotLoader
 - [Eric Elliot](https://twitter.com/_ericelliott) - Prototypal Inheritance, Programming Javascript Applications, Tape
 - [Elijah Manor](https://twitter.com/elijahmanor) - React for the future
