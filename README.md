@@ -3,7 +3,7 @@
 This is a curated list I made from people I follow and I've been learning a lot from. 
 They are recognized by the community for their contributions/talks/projects/books and so on.
 
-(Struggling to divide this into categories, and getting people "small description. Alphabetical order)
+(Struggling to divide this into categories, and getting people's "small description". Alphabetical order)
 
 **Note**: I'm not trying to say people only know from the category they're in. Just trying to make it easier for people to 
 follow the subjects they want to. Feel free to contribute.
