@@ -22,8 +22,8 @@ follow the subjects they want to.
 - [Dan Abramov](https://twitter.com/dan_abramov) - React, creator of Redux and ReduxHotLoader
 - [David Walsh](https://twitter.com/davidwalshblog) - Mozilla, MooTools
 - [Eric Elliot](https://twitter.com/_ericelliott) - Prototypal Inheritance, Programming Javascript Applications, Tape
-- [Jafar Husain](https://twitter.com/jhusain) - Netflix, FalcorJS, Async Javascript
 - [Elijah Manor](https://twitter.com/elijahmanor) - React for the future
+- [Jafar Husain](https://twitter.com/jhusain) - Netflix, FalcorJS, Async Javascript
 - [Jan Lehnardt](https://twitter.com/janl) - CouchDB, HoodieHQ, JSConfEU
 - [John Lindquist](https://twitter.com/johnlindquist) - EggHead.io
 - [Kyle Simpson](https://twitter.com/getify) - YDKJS, Asynquence
