@@ -14,7 +14,7 @@ follow the subjects they want to.
 - [Addy Osmani](https://twitter.com/addyosmani) - Tooling, Chrome, Yeoman
 - [Jake Archibald](https://twitter.com/jaffathecake) - Service Workers, Performance, Offline
 - [Paul Irish](https://twitter.com/paul_irish) - Performance, Chrome
-- [Nolan Lawson](https://twitter.com/nolanlawson) - Performance, Offline, Pokedex.org
+
 
 ## Javascript 
 - [Alex Sexton](https://twitter.com/SlexAxton) - Stripe, Modernizr, jQuery, Dojo
