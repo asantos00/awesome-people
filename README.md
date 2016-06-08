@@ -36,3 +36,6 @@ follow the subjects they want to.
 ## CSS
 - [Lea Verou](https://twitter.com/LeaVerou) - CSS Secrets
 - [Sara Soueidan](https://twitter.com/SaraSoueidan) - SVG, CSS, Performance, Accessibility
+
+## React Native
+- [Eric Vicenti](https://twitter.com/EricVicenti)
