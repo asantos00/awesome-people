@@ -50,8 +50,10 @@ follow the subjects they want to.
 ## Security
 - [Mikko Hypponen](https://twitter.com/mikko) - F-Secure, Security Expert
 
-## DevOps ?
+## Docker
 - [Solomon Hykes](https://twitter.com/solomonstre) - Founder of dotcloud and creator of the Docker project.
+
+## ?
 - [Werner Vogels](https://twitter.com/Werner) - Amazon CTO
 
 ## Science
