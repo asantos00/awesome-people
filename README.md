@@ -38,4 +38,30 @@ follow the subjects they want to.
 - [Sara Soueidan](https://twitter.com/SaraSoueidan) - SVG, CSS, Performance, Accessibility
 
 ## React Native
-- [Eric Vicenti](https://twitter.com/EricVicenti)
+- [Eric Vicenti](https://twitter.com/EricVicenti) - React Native Team @ Facebook
+
+## AI
+- [Dag Kittlaus](https://twitter.com/Dagk) - Co-Founder/CEO Siri & Viv Labs
+
+## Tech Entrepreneurship
+- [Bill Gates](https://twitter.com/BillGates) - Microsoft, Philanthropist
+- [Elon Musk](https://twitter.com/elonmusk) - Tesla, Paypal, SpaceX
+
+## Security
+- [Mikko Hypponen](https://twitter.com/mikko) - F-Secure, Security Expert
+
+## Docker
+- [Solomon Hykes](https://twitter.com/solomonstre) - Founder of dotcloud and creator of the Docker project.
+
+## ?
+- [Werner Vogels](https://twitter.com/Werner) - Amazon CTO
+
+## Science
+- [Michio Kaku](https://twitter.com/michiokaku) - Physicist, Futurist
+- [Neil deGrasse Tyson](https://twitter.com/neiltyson) - Astrophysicist
+
+## Linux
+- [Linus Torvalds](https://twitter.com/Linus__Torvalds) - Linux & git creator
+
+## Ruby
+- [David Heinemeier Hansson](https://twitter.com/dhh) - Ruby on Rails creator
